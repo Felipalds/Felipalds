@@ -1,8 +1,7 @@
 # $ whoami
 
 <p align="center">
-![Alt Text](https://giphy.com/stickers/crash-windows-1wXeStnxMPgsAcjA2R/giphy.gif)
-
+  <img src=https://giphy.com/stickers/crash-windows-1wXeStnxMPgsAcjA2R" alt="giphy" />
 </p>
 
 <samp>
