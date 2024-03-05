@@ -1,3 +1,39 @@
+# $ whoami
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif" alt="giphy" />
+</p>
+
+<samp>
+  
+  - I am a computer scientist and software engineer</a>
+
+  - Working today mainly with Spring Boot (Java) and React (JavaScript)
+
+  - Golang enthusiast and chess lover - 
+
+  - Blockchain researcher and Bitcoin adopter
+
+</samp>
+
+## Some recent articles
+
+<samp>
+  
+  - 🤓 <strong><a href="https://www.overleaf.com/project/65c37f3f812a5e50f30b5adb" target="_blank">Algoritmos de Substituição de Páginas - Análise em Sistemas Operacionais</a></strong>
+
+</samp>
+
+## Contact
+
+<samp>
+  
+  - <a href="mailto:luizfelipefonsecarosa@gmail.com">luizfelipefonsecarosa@gmail.com</a>
+  
+  - <a href="https://www.linkedin.com/in/felipalds/">LinkedIn</a>
+
+</samp>
+
 <div align="center">
   <a href="https://github.com/Felipalds">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Felipalds&show_icons=true&theme=github_dark" />
