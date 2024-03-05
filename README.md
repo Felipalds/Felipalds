@@ -1,7 +1,7 @@
 # $ whoami
 
 <p align="center">
-  <img src="https://www.linkedin.com/in/felipalds/" alt="giphy" />
+ <iframe src="https://giphy.com/embed/1wXeStnxMPgsAcjA2R" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/crash-windows-1wXeStnxMPgsAcjA2R"></a></p>
 </p>
 
 <samp>
