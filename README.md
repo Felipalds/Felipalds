@@ -1,7 +1,7 @@
 # $ whoami
 
 <p align="center">
-  <img src=https://giphy.com/stickers/crash-windows-1wXeStnxMPgsAcjA2R" alt="giphy" />
+  <img src="https://media2.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif" alt="giphy" />
 </p>
 
 <samp>
