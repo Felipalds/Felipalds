@@ -1,7 +1,7 @@
 # $ whoami
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif" alt="giphy" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdpYjViaWsyNm9pN3NkcWs5ZzNraHBwajhoMDZyb3NrcWlhNDc0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1wXeStnxMPgsAcjA2R/giphy.gif" alt="giphy" />
 </p>
 
 <samp>
