@@ -6,11 +6,11 @@
 
 <samp>
   
-  - I am a computer scientist and software engineer</a>
+  - I am a computer scientist and a software engineer</a>
 
-  - Working today mainly with Spring Boot (Java) and React (JavaScript)
+  - Working today mainly with Spring Boot (Java), NextJS (JavaScript) and AWS.
 
-  - Golang enthusiast and chess lover - 
+  - Golang enthusiast and chess lover - <a href="https://www.chess.com/member/felipalds" target="_blank">challenge me</a>
 
   - Blockchain researcher and Bitcoin adopter
 
