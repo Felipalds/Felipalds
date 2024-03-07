@@ -20,7 +20,7 @@
 
 <samp>
   
-  - 🤓 <strong><a href="https://www.overleaf.com/project/65c37f3f812a5e50f30b5adb" target="_blank">Algoritmos de Substituição de Páginas - Análise em Sistemas Operacionais</a></strong>
+  - 🤓 <strong><a href="https://www.overleaf.com/read/wbcghtpmsbcg#d909bd" target="_blank">Algoritmos de Substituição de Páginas - Análise em Sistemas Operacionais</a></strong>
 
 </samp>
 
