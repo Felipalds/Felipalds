@@ -21,7 +21,10 @@
 <samp>
   
   - 🤓 <strong><a href="https://www.overleaf.com/read/wbcghtpmsbcg#d909bd" target="_blank">Algoritmos de Substituição de Páginas - Análise em Sistemas Operacionais</a></strong>
-
+  - 🤖 <strong><a href="https://www.overleaf.com/read/vypgwmnpzmgn#06066c" target="_blank">Detecção de Fraudes utilizando Perceptron Multicamadas</a></strong>
+  - 🥒 <strong><a href="https://www.overleaf.com/read/bmrhcdpghmwc#ff5777" target="_blank">Paralelismo em Visualização de um Método de Monte Carlo</a></strong>
+  - 🔠 <strong><a href="https://www.overleaf.com/read/bmrhcdpghmwc#ff5777" target="_blank">Criando uma linguagem de programação (SkaldLang) - Parte 1: Analisador Léxico</a></strong>
+  
 </samp>
 
 ## Contact
