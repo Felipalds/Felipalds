@@ -1,7 +1,7 @@
 # $ whoami
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdpYjViaWsyNm9pN3NkcWs5ZzNraHBwajhoMDZyb3NrcWlhNDc0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1wXeStnxMPgsAcjA2R/giphy.gif" alt="giphy" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFhb214MGMyZHI2bGE4NWJzbm10ZTRlOGt1anh3bXhta2U2aHpzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kN79e1NI1QErC/giphy.webp" alt="giphy" />
 </p>
 
 <samp>
