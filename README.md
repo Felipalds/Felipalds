@@ -12,7 +12,11 @@
 
   - Golang enthusiast and chess lover - <a href="https://www.chess.com/member/felipalds" target="_blank">challenge me</a>
 
-  - Blockchain researcher and Bitcoin adopter
+  - Blockchain researcher at RNP
+
+  - Bitcoin adopter and $holder
+
+  - Listening to Symphony X right now
 
 </samp>
 
