@@ -1,6 +1,8 @@
 # $ whoami
 
-<img src="https://github.com/user-attachments/assets/1423b08e-4910-4498-977d-2bfeada4e72a" width="100" />
+<img src="https://github.com/user-attachments/assets/1423b08e-4910-4498-977d-2bfeada4e72a" width="200" />
+<img src="https://github.com/user-attachments/assets/3f946bc2-d30a-49cf-bb43-aa9410adbec3" width="200" />
+
 
 <samp>
   
@@ -40,6 +42,9 @@
   - <a href="https://www.linkedin.com/in/felipalds/">LinkedIn</a>
 
 </samp>
+
+![image](https://github.com/user-attachments/assets/26c32b32-7135-4d3d-835a-c948599d0cc0)
+
 
 
   <a href="https://github.com/Felipalds">
