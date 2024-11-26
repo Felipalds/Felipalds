@@ -1,6 +1,6 @@
 # $ whoami
 
-  ![image](https://github.com/user-attachments/assets/c335eda7-dfbf-4a27-a62a-6f0b81ed58b5)
+![image](https://github.com/user-attachments/assets/1423b08e-4910-4498-977d-2bfeada4e72a)
 
 <samp>
   
