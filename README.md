@@ -1,8 +1,6 @@
 # $ whoami
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFhb214MGMyZHI2bGE4NWJzbm10ZTRlOGt1anh3bXhta2U2aHpzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kN79e1NI1QErC/giphy.webp" alt="giphy" />
-</p>
+  ![image](https://github.com/user-attachments/assets/c335eda7-dfbf-4a27-a62a-6f0b81ed58b5)
 
 <samp>
   
