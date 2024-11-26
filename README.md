@@ -43,7 +43,7 @@
 
 </samp>
 
-<img src="https://github.com/user-attachments/assets/26c32b32-7135-4d3d-835a-c948599d0cc0](https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/buy-morning-coffee-3x.gif" />
+<img src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/buy-morning-coffee-3x.gif" alt="gif pay me" />
 
 
 
