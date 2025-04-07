@@ -2,12 +2,14 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; max-width: 500px;">
   <samp style="flex: 1; margin-right: 20px;">
+    
     - I am a <b>computer scientist</b> and a software engineer<br>
     - Working at SUSE Software (Rancher team)<br>
     - My stack is: Golang, Java, AWS, Next.js, k8s...<br>
     - Chess lover - <a href="https://www.chess.com/member/felipalds" target="_blank">challenge me</a><br>
     - Blockchain researcher<br>
     - Bitcoin adopter and $hodler
+    
   </samp>
   <img src="https://github.com/user-attachments/assets/1423b08e-4910-4498-977d-2bfeada4e72a" width="200" />
 </div>
