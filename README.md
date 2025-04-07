@@ -30,7 +30,7 @@
 
 <samp>
   
-  - <a href="mailto:luizfelipefonsecarosa@gmail.com">luizfelipefonsecarosa@gmail.com</a>
+  - <a href="mailto:luizrosa8@proton.me">My Email</a>
   
   - <a href="https://www.linkedin.com/in/felipalds/">LinkedIn</a>
 
