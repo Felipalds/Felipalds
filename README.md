@@ -3,11 +3,11 @@
 <samp>
   
   - I am a **computer scientist** and a software engineer
-  - 
+  
   - Working at SUSE Software (Rancher team)
-  - 
+    
   - My stack is: Golang, Java, AWS, Next.js, k8s...
-  - 
+    
   - Chess lover - <a href="https://www.chess.com/member/felipalds" target="_blank">challenge me</a>
   
   - Blockchain researcher
