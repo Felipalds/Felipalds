@@ -6,13 +6,7 @@
   
   - Working at SUSE Software (Rancher team)
     
-  - My stack is: Golang, Java, AWS, Next.js, k8s...
-    
-  - Chess lover - <a href="https://www.chess.com/member/felipalds" target="_blank">challenge me</a>
-  
-  - Blockchain researcher
-    
-  - Bitcoin adopter and $hodler
+  - Golang, Java, AWS, Next.js, Kubernetes and Rancher
     
 </samp>
 
