@@ -1,17 +1,20 @@
 # $ whoami
 
-<div style="display: flex; align-items: center; justify-content: space-between; max-width: 500px;">
-  <samp style="flex: 1; margin-right: 20px;">
+  <samp>
     
     - I am a <b>computer scientist</b> and a software engineer<br>
+    
     - Working at SUSE Software (Rancher team)<br>
+    
     - My stack is: Golang, Java, AWS, Next.js, k8s...<br>
+    
     - Chess lover - <a href="https://www.chess.com/member/felipalds" target="_blank">challenge me</a><br>
+    
     - Blockchain researcher<br>
+    
     - Bitcoin adopter and $hodler
     
   </samp>
-</div>
 
 ## Some recent articles
 
