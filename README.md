@@ -1,23 +1,14 @@
 # $ whoami
 
 <img src="https://github.com/user-attachments/assets/1423b08e-4910-4498-977d-2bfeada4e72a" width="200" />
-<img src="https://github.com/user-attachments/assets/3f946bc2-d30a-49cf-bb43-aa9410adbec3" width="200" />
-
 
 <samp>
-  
-  - I am a computer scientist and a software engineer</a>
-
-  - Working today mainly with Spring Boot (Java), NextJS (JavaScript) and AWS.
-
-  - Golang enthusiast and chess lover - <a href="https://www.chess.com/member/felipalds" target="_blank">challenge me</a>
-
-  - Blockchain researcher at RNP
-
-  - Bitcoin adopter and $holder
-
-  - Listening to Symphony X right now
-
+  - I am a **computer scientist** and a software engineer</a>
+  - Working at SUSE Software (Rancher team)
+  - My stack is: Golang, Java, AWS, Next.js, k8s...
+  - Chess lover - <a href="https://www.chess.com/member/felipalds" target="_blank">challenge me</a>
+  - Blockchain researcher
+  - Bitcoin adopter and $hodler
 </samp>
 
 ## Some recent articles
