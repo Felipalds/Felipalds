@@ -3,12 +3,14 @@
 <img src="https://github.com/user-attachments/assets/1423b08e-4910-4498-977d-2bfeada4e72a" width="200" />
 
 <samp>
+  
   - I am a **computer scientist** and a software engineer</a>
   - Working at SUSE Software (Rancher team)
   - My stack is: Golang, Java, AWS, Next.js, k8s...
   - Chess lover - <a href="https://www.chess.com/member/felipalds" target="_blank">challenge me</a>
   - Blockchain researcher
   - Bitcoin adopter and $hodler
+    
 </samp>
 
 ## Some recent articles
