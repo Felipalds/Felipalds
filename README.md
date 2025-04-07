@@ -1,20 +1,20 @@
 # $ whoami
 
-  <samp>
+<samp>
+  
+  - I am a **computer scientist** and a software engineer
+  - 
+  - Working at SUSE Software (Rancher team)
+  - 
+  - My stack is: Golang, Java, AWS, Next.js, k8s...
+  - 
+  - Chess lover - <a href="https://www.chess.com/member/felipalds" target="_blank">challenge me</a>
+  
+  - Blockchain researcher
     
-    - I am a <b>computer scientist</b> and a software engineer<br>
+  - Bitcoin adopter and $hodler
     
-    - Working at SUSE Software (Rancher team)<br>
-    
-    - My stack is: Golang, Java, AWS, Next.js, k8s...<br>
-    
-    - Chess lover - <a href="https://www.chess.com/member/felipalds" target="_blank">challenge me</a><br>
-    
-    - Blockchain researcher<br>
-    
-    - Bitcoin adopter and $hodler
-    
-  </samp>
+</samp>
 
 ## Some recent articles
 
