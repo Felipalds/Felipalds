@@ -22,9 +22,9 @@
   
   
 </samp>
-
+<div>
 [![My GitFut card](https://gitfut.com/Felipalds.png)](https://gitfut.com/Felipalds)
-
+</div>
 ## Contact
 
 <samp>
