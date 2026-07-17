@@ -20,11 +20,16 @@
   - 🤖 <strong><a href="https://www.overleaf.com/read/vypgwmnpzmgn#06066c" target="_blank">Detecção de Fraudes utilizando Perceptron Multicamadas</a></strong>
   - 🥒 <strong><a href="https://www.overleaf.com/read/bmrhcdpghmwc#ff5777" target="_blank">Paralelismo em Visualização de um Método de Monte Carlo</a></strong>
   
+
   
 </samp>
+
 <div>
+  
 [![My GitFut card](https://gitfut.com/Felipalds.png)](https://gitfut.com/Felipalds)
+
 </div>
+
 ## Contact
 
 <samp>
