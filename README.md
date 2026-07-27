@@ -2,11 +2,11 @@
 
 <samp>
   
-  - I am a **computer scientist** and a software engineer
+  - **computer scientist** and a software engineer
   
-  - Working at SUSE Software (Rancher team)
+  - working at SUSE Software (Rancher, Harverster, Longhorn)
     
-  - Golang, Java, AWS, Next.js, Kubernetes and Rancher
+  - Golang, Java, AWS, Next.js, Bitcoin, Kubernetes and Rancher
     
 </samp>
 
