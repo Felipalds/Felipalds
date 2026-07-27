@@ -24,17 +24,11 @@
   
 </samp>
 
-<div>
-  
-[![My GitFut card](https://gitfut.com/Felipalds.png)](https://gitfut.com/Felipalds)
-
-</div>
-
 ## Contact
 
 <samp>
   
-  - <a href="mailto:luizrosa8@proton.me">My Email</a>
+  - <a href="mailto:dev@luizrosa.me">My Email</a>
   
   - <a href="https://www.linkedin.com/in/felipalds/">LinkedIn</a>
 
@@ -42,14 +36,5 @@
 
 <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/buy-morning-coffee-3x.gif" alt="gif pay me" />
 
-
-
-  <a href="https://github.com/Felipalds">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Felipalds&show_icons=true&theme=github_dark" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Felipalds/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipalds&layout=compact&theme=github_dark" />
-  </a>
 
 
